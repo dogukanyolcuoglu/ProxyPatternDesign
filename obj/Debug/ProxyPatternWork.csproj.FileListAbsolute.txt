@@ -1,0 +1,13 @@
+C:\Users\yolcu\source\repos\ProxyPatternWork\bin\Debug\ProxyPatternWork.exe.config
+C:\Users\yolcu\source\repos\ProxyPatternWork\bin\Debug\ProxyPatternWork.exe
+C:\Users\yolcu\source\repos\ProxyPatternWork\bin\Debug\ProxyPatternWork.pdb
+C:\Users\yolcu\source\repos\ProxyPatternWork\obj\Debug\ProxyPatternWork.csprojAssemblyReference.cache
+C:\Users\yolcu\source\repos\ProxyPatternWork\obj\Debug\ProxyPatternWork.Form1.resources
+C:\Users\yolcu\source\repos\ProxyPatternWork\obj\Debug\ProxyPatternWork.Properties.Resources.resources
+C:\Users\yolcu\source\repos\ProxyPatternWork\obj\Debug\ProxyPatternWork.csproj.GenerateResource.cache
+C:\Users\yolcu\source\repos\ProxyPatternWork\obj\Debug\ProxyPatternWork.exe
+C:\Users\yolcu\source\repos\ProxyPatternWork\obj\Debug\ProxyPatternWork.pdb
+C:\Users\yolcu\source\repos\ProxyPatternWork\obj\Debug\ProxyPatternWork.Form2.resources
+C:\Users\yolcu\source\repos\ProxyPatternWork\obj\Debug\ProxyPatternWork.Form3.resources
+C:\Users\yolcu\source\repos\ProxyPatternWork\obj\Debug\ProxyPatternWork.Form4.resources
+C:\Users\yolcu\source\repos\ProxyPatternWork\obj\Debug\ProxyPatternWork.Form5.resources
